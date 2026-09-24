@@ -9,9 +9,14 @@ The project uses data analytics, visualization, and machine learning techniques 
 Student Information
 
 Name: Anubhab Nandi
+
 Institution: Guru Nanak Institute of Technology
+
 Program: BCA
-Internship: IBM SkillsBuild Data Analytics with AI Internship 2026
+
+Internship: IBM SkillsBuild Data Analytics with AI 
+
+Internship 2026
 
 Project Objectives
 
